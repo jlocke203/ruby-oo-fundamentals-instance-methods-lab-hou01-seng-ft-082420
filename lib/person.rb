@@ -1,5 +1,6 @@
 class Person
-en 
 
 def talk
+  puts "Hello World"
+end 
 end 
